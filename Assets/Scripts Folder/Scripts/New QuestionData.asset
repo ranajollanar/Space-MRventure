@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b2e8e158f9b5d14aa40c70b025da41b, type: 3}
+  m_Name: New QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - question: Which planet is closest to the Sun?
+    replies:
+    - Venus
+    - Earth
+    - Mercury
+    - Mars
+    CorrectAnswerIndex: 2
+  - question: Which planet is known as Earth's "sister planet"?
+    replies:
+    - Venus
+    - Jupiter
+    - Saturn
+    - Mars
+    CorrectAnswerIndex: 0
+  - question: Which planet has a thick atmosphere mostly made of carbon dioxide?
+    replies:
+    - Earth
+    - Mercury
+    - Venus
+    - Mars
+    CorrectAnswerIndex: 2
+  - question: 'Which planet has a surface covered in craters, resembling our Moon? '
+    replies:
+    - Mers
+    - Mercury
+    - Venus
+    - Earth
+    CorrectAnswerIndex: 1
+  - question: 'Which planet is famous for its colorful bands of clouds and the Great
+      Red Spot? '
+    replies:
+    - Jupiter
+    - Saturn
+    - Uranus
+    - Neptune
+    CorrectAnswerIndex: 0
+  - question: Which planet has a unique axial tilt, causing extreme seasons?
+    replies:
+    - Saturn
+    - Neptune
+    - Uranus
+    - Jupiter
+    CorrectAnswerIndex: 2
+  - question: Which planet has the fastest winds in the Solar System?
+    replies:
+    - Mars
+    - Jupiter
+    - Uranus
+    - Neptune
+    CorrectAnswerIndex: 3
+  - question: Which planet is known as the "Red Planet" due to its rusty-red surface?
+    replies:
+    - Mars
+    - Mercury
+    - Venus
+    - Earth
+    CorrectAnswerIndex: 0

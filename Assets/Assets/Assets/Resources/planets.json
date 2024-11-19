@@ -1,0 +1,50 @@
+{
+    "planets": [
+      {
+        "name": "Mercury",
+        "description": "Mercury is the closest planet to the Sun and the smallest planet in the Solar System. It's a rocky world with a surface that's covered in craters, much like our Moon. Despite being so close to the Sun, Mercury experiences extreme temperature changes, swinging from scorching hot during the day to freezing cold at night.",
+        "distance_from_sun": 0.39
+      },
+      {
+        "name": "Venus",
+        "description": "Venus is often called Earth's 'sister planet' because they are similar in size and composition. However, Venus has a thick atmosphere made mostly of carbon dioxide, which traps heat and makes it the hottest planet in the Solar System. Its surface is shrouded in dense clouds of sulfuric acid, hiding its rocky terrain from view.",
+        "distance_from_sun": 0.72
+      },
+      {
+        "name": "Earth",
+        "description": "Ah, our beautiful blue planet! Earth is the only planet known to support life, with vast oceans, lush forests, and diverse ecosystems. It's just the right distance from the Sun to maintain temperatures suitable for life as we know it. From towering mountains to deep ocean trenches, Earth is a planet full of wonders waiting to be explored.",
+        "distance_from_sun": 1.0
+      },
+      {
+        "name": "Mars",
+        "description": "Known as the 'Red Planet' due to its rusty-red surface, Mars is a cold and desert-like world with towering volcanoes and deep canyons. It has polar ice caps made of water and frozen carbon dioxide, hinting at the possibility of ancient water flowing on its surface. Mars has long captured the imagination of scientists and explorers, with ongoing missions aiming to uncover its secrets.",
+        "distance_from_sun": 1.52
+      },
+      {
+        "name": "Jupiter",
+        "description": "Jupiter is the largest planet in the Solar System, a gas giant with colorful bands of clouds swirling around its atmosphere. It's home to the Great Red Spot, a massive storm that has been raging for centuries. Jupiter has a strong magnetic field and more than 70 moons, including the four largest known as the Galilean moons: Io, Europa, Ganymede, and Callisto.",
+        "distance_from_sun": 5.2
+      },
+      {
+        "name": "Saturn",
+        "description": "Saturn is famous for its dazzling rings, made up of countless icy particles ranging in size from tiny grains to large chunks. Beneath its rings, Saturn is a gas giant similar to Jupiter, with swirling storms and a complex atmosphere. Saturn has more than 80 moons, with Titan being the largest and most intriguing, with its thick atmosphere and methane lakes.",
+        "distance_from_sun": 9.58
+      },
+      {
+        "name": "Uranus",
+        "description": "Uranus is an ice giant planet that spins on its side, giving it a unique appearance in the Solar System. It has a pale blue color due to the methane in its atmosphere, and it's surrounded by a system of faint rings and numerous moons. Uranus experiences extreme seasons due to its axial tilt, with each pole facing the Sun for about 42 years at a time.",
+        "distance_from_sun": 19.22
+      },
+      {
+        "name": "Neptune",
+        "description": "Neptune is the farthest planet from the Sun, a cold and windy world with a deep blue hue. It has the fastest winds in the Solar System, reaching speeds of up to 1,500 miles per hour (2,400 kilometers per hour). Neptune has a system of dark rings and a large moon named Triton, which orbits the planet in the opposite direction of Neptune's rotation.",
+        "distance_from_sun": 30.05
+      },
+      {
+        "name": "Moon",
+        "description": "The Moon is Earth's only natural satellite and the fifth largest moon in the Solar System. It has a rocky surface covered in craters, created by impacts from asteroids and meteoroids. The Moon has played a significant role in human history, serving as a source of inspiration, scientific study, and a target for exploration.",
+        "distance_from_earth": 0.00257
+      }
+    ]
+  }
+  
