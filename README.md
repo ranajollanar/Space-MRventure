@@ -8,14 +8,14 @@ Check out the video demo of this project at the following link: [Video Demo](htt
 
 
 ---
-![448509786_1115202349560555_2760451769726424162_n](https://github.com/user-attachments/assets/58c34445-e5d2-4236-914d-69f49a2a7192)
-![448546199_844634477531255_5264283108122888477_n](https://github.com/user-attachments/assets/ee391c7a-9b10-458e-98cb-315faca1bf30)
-![448176642_925745265990825_6228353722710700221_n](https://github.com/user-attachments/assets/6a2cfdb2-76d2-4d62-9962-b77497ad1671)
-![448568865_881286460680244_5010196852496303143_n](https://github.com/user-attachments/assets/7085480a-29dd-4556-b238-43766d10eb2b)
-![448386047_1141917553740536_7722802302731483781_n](https://github.com/user-attachments/assets/1e083d8a-7843-4e17-92d4-4ff716b86768)
-![447865011_994649098719242_3096264340684802597_n](https://github.com/user-attachments/assets/976e040a-03ca-4ecb-9efb-277298da6b8c)
-![447697272_828601395432479_8527205860710629711_n](https://github.com/user-attachments/assets/716033af-635b-4ea9-8288-27b2b32f9eca)
-![448183718_467330165991658_2869195340581820028_n](https://github.com/user-attachments/assets/4c6ef41a-2760-4475-a272-9876163952cf)
+<img src="https://github.com/user-attachments/assets/58c34445-e5d2-4236-914d-69f49a2a7192" width="20%">
+<img src="https://github.com/user-attachments/assets/ee391c7a-9b10-458e-98cb-315faca1bf30" width="20%">
+<img src="https://github.com/user-attachments/assets/6a2cfdb2-76d2-4d62-9962-b77497ad1671" width="20%">
+<img src="https://github.com/user-attachments/assets/7085480a-29dd-4556-b238-43766d10eb2b" width="20%">
+<img src="https://github.com/user-attachments/assets/1e083d8a-7843-4e17-92d4-4ff716b86768" width="20%">
+<img src="https://github.com/user-attachments/assets/976e040a-03ca-4ecb-9efb-277298da6b8c" width="20%">
+<img src="https://github.com/user-attachments/assets/716033af-635b-4ea9-8288-27b2b32f9eca" width="20%">
+<img src="https://github.com/user-attachments/assets/4c6ef41a-2760-4475-a272-9876163952cf" width="20%">
 
 
 ###### Features
